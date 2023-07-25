@@ -105,8 +105,15 @@
         <subsection xml:id="subsec-commutativity-addition">
           <title>Commutativity of Addition</title>
           <p>
-            Hi!
+            The commutative property of addition states that the order in which we add two numbers doesn't matter.
+            For example, <m>3+4=7</m> and <m>4+3=7</m>. The following interactive applet allows you to explore this in more detail.
+            Use the two sliders to select the two numbers you want to add, and then click the <c>RESTART</c> button to run an animation.
           </p>
+          <figure xml:id="geogebra-add-commutative">
+            <caption>Illustrating the commutative property</caption>
+            <interactive geogebra="uefjm7rk"/>
+          </figure>
+          
         </subsection>
         <subsection xml:id="subsec-communtativity-multiplication">
           <title>Communtativity of Multiplication</title>
@@ -140,6 +147,10 @@
             Hey hey hey...
           </p>
         </subsection>
+      </section>
+
+      <section xml:id="section-commutative-associative">
+        <title>Combining the commutative and associative properties</title>
       </section>
 
       <section xml:id="sec-distributive-property">
