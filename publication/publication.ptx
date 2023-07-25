@@ -120,6 +120,7 @@
       reading="static"
       worksheet="static"
       project="dynamic"
+      server="https://webwork-dev.uleth.ca"
     />
     <!-- Magic IDs identify HTML pages to analytics services   -->
     <!-- Presence implies relevant Javascript will be added    -->

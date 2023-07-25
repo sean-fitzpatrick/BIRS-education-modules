@@ -116,6 +116,49 @@
             <interactive geogebra="vwdjenhg"/>
           </figure>
           
+          <exercise>
+            <webwork>
+              <statement>
+                <p>
+                  Use the commuative property of addition to complete the following equalities.
+                </p>
+
+                <p>
+                  <m>9+7 = </m><var name="'7'" width="3"/><m>+9</m>
+                </p>
+                <p>
+                   <m>10+</m><var name="'5'" width="3"/><m> = 5+10</m>
+                </p>
+              </statement>
+            </webwork>
+          </exercise>
+
+          <exercise>
+            <!-- <webwork> -->
+              <statement>
+                <p>
+                  Use the commutative property to complete the following table.
+                </p>
+
+                <tabular halign="center">
+                  <row bottom="minor">
+                    <cell right="minor">+</cell><cell>1</cell><cell>2</cell><cell>3</cell>
+                  </row>
+                  <row>
+                    <cell right="minor">1</cell><cell>2</cell><cell><fillin width="1"/></cell><cell><fillin width="1"/></cell>
+                  </row>
+                  <row>
+                    <cell right="minor">2</cell><cell>3</cell><cell>4</cell><cell><fillin width="1"/></cell>
+                  </row>
+                  <row>
+                    <cell right="minor">3</cell><cell>4</cell><cell>5</cell><cell>6</cell>
+                  </row>
+                </tabular>
+              </statement>
+            <!-- </webwork> -->
+          </exercise>
+
+
         </subsection>
         <subsection xml:id="subsec-communtativity-multiplication">
           <title>Communtativity of Multiplication</title>
