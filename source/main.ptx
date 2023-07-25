@@ -11,17 +11,36 @@
     </latex-image-preamble>
   </docinfo>
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
-
+  <book xml:id="elementary-resources">
+    <title>Resources for Elementary Math Teachers</title>
+    
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
-          <personname>You</personname>
-          <department>Your department</department>
-          <institution>Your institution</institution>
+          <personname>Sean Fitzpatrick</personname>
+          <department>Mathematics and Computer Science</department>
+          <institution>University of Lethbridge</institution>
         </author>
+        <author>
+          <personname>Shawn Desaulniers</personname>
+          <department>Mathematics</department>
+          <institution>University of Alberta</institution>
+        </author>
+        <author>
+          <personname>Barb Forrest</personname>
+          <department>Mathematics</department>
+          <institution>University of Waterloo</institution>
+        </author>
+        <author>
+          <personname>Brian Forrest</personname>
+          <department>Mathematics</department>
+          <institution>University of Waterloo</institution>
+        </author>
+        <author>
+          <personname>DR Iwabuchi</personname>
+          <institution>Kumsheen ShchEma-meet School</institution>
+        </author>
+        
         <date>
           <today />
         </date>
@@ -29,41 +48,117 @@
 
       <colophon>
 
-        <website>
+        <!-- <website>
           <name>
             <c>example.org</c>
           </name>
           <address>https://example.org</address>
-        </website>
+        </website> -->
 
         <copyright>
-          <year>2020<ndash />2023</year>
-          <holder>You</holder>
+          <year>2023</year>
+          <holder>BIRS</holder>
           <shortlicense> 
-            This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
+            This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+            To view a copy of this license, visit 
+            <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
           </shortlicense>
         </copyright>
       </colophon>
     </frontmatter>
 
-    <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
+    <chapter xml:id="chapter-algebra-arithemtic">
+      <title>Modules for algebraic properties and arithmetic</title>
+
+      <introduction>
+        <p>
+          The teaching of arithmetic in elementary school involves rules in one way or another.
+          But what are the <q>right rules</q>? A satisfactory answer to this question is likely impossible,
+          but in any curriculum, we can say what rules are most <em>fundamental</em>.
+        </p>
+
+        <p>
+          Three rules form the foundation of every method in arithmetic:
+          the <term>commutative</term>, <term>associative</term>, and <term>distributive</term> properties.
+          These modules attempt to build familiarity with these properties,
+          and equip teachers to explain the procedures taught in their classrooms.
+        </p>
+      </introduction>
 
       <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
+        <title>Commutativity</title>
+        <introduction>
+          <p>
+            The commuative properties are about <em>order</em>.
+            When we add or multiply two numbers, which one comes first? Does it matter?
+            The commutative properties state that no, it doesn't matter:
+            <m>3+4</m> is the same as <m>4+3</m>, and <m>2\times 5</m> is the same as <m>5\times 2</m>.
+          </p>
+
+          <p>
+            Students (and their teachers) intuitively understand this principle from an early age,
+            but often do not explicitly understand the role of commutativity in more complicated procedures.
+            These modules are designed to help teachers understand the concept and importance of the 
+            commutative propertes in elementary arithmetic.
+          </p>
+        </introduction>
+        <subsection xml:id="subsec-commutativity-addition">
+          <title>Commutativity of Addition</title>
+          <p>
+            Hi!
+          </p>
+        </subsection>
+        <subsection xml:id="subsec-communtativity-multiplication">
+          <title>Communtativity of Multiplication</title>
+          <p>
+            Hello.
+          </p>
+        </subsection>
+      </section>
+
+      <section xml:id="sec-associativity">
+        <title>Associativity</title>
+        <introduction>
+          <p>
+            The associative properties are about <em>grouping</em>.
+            Both addition and multiplication are fundamentally about combining <em>pairs</em> of numbers,
+            but we often need to add, or multiply, three or more numbers.
+            The associative properties let us make sense of how this works.
+          </p>
+        </introduction>
+        <subsection xml:id="subsec-associativity-addition">
+          <title>Associativity of Addition</title>
+          
+          <p>
+            Hiya!
+          </p>
+        </subsection>
+        <subsection xml:id="subsec-associativity-multiplication">
+          <title>associativity-multiplication</title>
+          
+          <p>
+            Hey hey hey...
+          </p>
+        </subsection>
+      </section>
+
+      <section xml:id="sec-distributive-property">
+        <title>Distributive Property</title>
+        <p>
+          More stuff!
+        </p>
       </section>
 
     </chapter>
 
-    <backmatter xml:id="backmatter">
+    <!-- <backmatter xml:id="backmatter">
       <title>Backmatter</title>
 
       <colophon>
         <p> This book was authored in <pretext />. </p>
       </colophon>
 
-    </backmatter>
+    </backmatter> -->
 
   </book>
 </pretext>
