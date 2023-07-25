@@ -3,6 +3,7 @@
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
   <docinfo>
+    <rename element="inlineexercise">Exercise</rename>
     <macros>
       \newcommand{\R}{\mathbb R}
     </macros>
@@ -163,7 +164,7 @@
         <subsection xml:id="subsec-communtativity-multiplication">
           <title>Communtativity of Multiplication</title>
           <p>
-            Hello.
+            A corresponding presentation for multiplication will eventually go here.
           </p>
         </subsection>
       </section>
@@ -182,7 +183,7 @@
           <title>Associativity of Addition</title>
           
           <p>
-            Hiya!
+            
           </p>
         </subsection>
         <subsection xml:id="subsec-associativity-multiplication">
