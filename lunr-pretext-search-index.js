@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Commutativity",
-  "body": " Commutativity   The commuative properties are about order . When we add or multiply two numbers, which one comes first? Does it matter? The commutative properties state that no, it doesn't matter: is the same as , and is the same as .  Students (and their teachers) intuitively understand this principle from an early age, but often do not explicitly understand the role of commutativity in more complicated procedures. These modules are designed to help teachers understand the concept and importance of the commutative propertes in elementary arithmetic.     Commutativity of Addition  The commutative property of addition states that the order in which we add two numbers doesn't matter. For example, and . The following interactive applet allows you to explore this in more detail. Use the two sliders to select the two numbers you want to add, and then click the RESTART button to run an animation.   Illustrating the commutative property      Communtativity of Multiplication  Hello.   "
+  "body": " Commutativity   The commuative properties are about order . When we add or multiply two numbers, which one comes first? Does it matter? The commutative properties state that no, it doesn't matter: is the same as , and is the same as .  Students (and their teachers) intuitively understand this principle from an early age, but often do not explicitly understand the role of commutativity in more complicated procedures. These modules are designed to help teachers understand the concept and importance of the commutative propertes in elementary arithmetic.     Commutativity of Addition  The commutative property of addition states that the order in which we add two numbers doesn't matter. For example, and . The following interactive applet allows you to explore this in more detail. Use the two sliders to select the two numbers you want to add, and then click the RESTART button to run an animation.   Illustrating the commutative property      Use the commuative property of addition to complete the following equalities.                    Use the commutative property to complete the following table.    + 1 2 3    1 2    2 3 4    3 4 5 6       Communtativity of Multiplication  Hello.   "
 },
 {
   "id": "geogebra-add-commutative",
@@ -26,6 +26,24 @@ var ptx_lunr_docs = [
   "number": "1.1.1",
   "title": "",
   "body": " Illustrating the commutative property   "
+},
+{
+  "id": "exercise-1",
+  "level": "2",
+  "url": "section-title.html#exercise-1",
+  "type": "Checkpoint",
+  "number": "1.1.2",
+  "title": "",
+  "body": "  Use the commuative property of addition to complete the following equalities.                  "
+},
+{
+  "id": "exercise-2",
+  "level": "2",
+  "url": "section-title.html#exercise-2",
+  "type": "Checkpoint",
+  "number": "1.1.3",
+  "title": "",
+  "body": " Use the commutative property to complete the following table.    + 1 2 3    1 2    2 3 4    3 4 5 6    "
 },
 {
   "id": "sec-associativity",
