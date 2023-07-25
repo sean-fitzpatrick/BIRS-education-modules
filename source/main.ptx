@@ -101,6 +101,8 @@
             These modules are designed to help teachers understand the concept and importance of the 
             commutative propertes in elementary arithmetic.
           </p>
+
+          <video youtube="H1zsWdHC_V8"/>
         </introduction>
         <subsection xml:id="subsec-commutativity-addition">
           <title>Commutativity of Addition</title>
@@ -111,7 +113,7 @@
           </p>
           <figure xml:id="geogebra-add-commutative">
             <caption>Illustrating the commutative property</caption>
-            <interactive geogebra="uefjm7rk"/>
+            <interactive geogebra="vwdjenhg"/>
           </figure>
           
         </subsection>
