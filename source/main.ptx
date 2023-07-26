@@ -254,22 +254,16 @@
           <title>Associativity of Addition</title>
           
           <p>
-            
-          </p>
-        </subsection>
-        <subsection xml:id="subsec-associativity-multiplication">
-          <title>associativity-multiplication</title>
-          
-          <p>
             Did you know that multiplication is also associative?
             This is important if we want to compute volume:
             the volume of a <m>2\times 3\times 4</m> cube is <m>24</m>,
             whether we compute this as <m>2\times(3\times 4)</m> or <m>(2\times 3)\times 4</m>.
           </p>
 
-          <figure xml:id="fig-mult-associative">
+          <!-- <figure xml:id="fig-mult-associative">
+            <caption>Illustrating the associative property of multiplication</caption>
             <sidebyside widths="47% 47%" valign="bottom">
-              <image xml:id="img-mult-assoc1">
+              <image xml:id="img-mult-assoc1" width="60%">
                 <description>A 2 by 3 by 4 box, shadeded to show volume computed as 2 groups of size 3 by 4</description>
                 <asymptote>
                   import three;
@@ -281,22 +275,22 @@
                   currentprojection=perspective(-30,-30,30,up=Z);
 
 
-                  for(int i = 0; i < 3; ++i) {
-                    for(int j = 0; j < 4; ++j) {
-                      for(int k=0; k<2; ++k) {
+                  for(int i = 0; i &amp; 3; ++i) {
+                    for(int j = 0; j &amp; 4; ++j) {
+                      for(int k=0; k &amp; 2; ++k) {
                       draw(box((i,j,k),(i+1,j+1,k+1)));
                       }
                     }
                   }
 
-                  for(int i = 0; i < 3; ++i) {
-                    for(int j = 0; j < 4; ++j) {
+                  for(int i = 0; i &amp; 3; ++i) {
+                    for(int j = 0; j &amp; 4; ++j) {
                       draw(shift((i,j,0))*unitcube,blue+opacity(0.5));
                     }
                   }
 
-                  for(int i = 0; i < 3; ++i) {
-                    for(int j = 0; j < 4; ++j) {
+                  for(int i = 0; i &amp; 3; ++i) {
+                    for(int j = 0; j &amp; 4; ++j) {
                       draw(shift((i,j,1))*unitcube,red+opacity(0.5));
                     }
                   }
@@ -315,46 +309,50 @@
                   currentprojection=perspective(-30,-30,30,up=Z);
 
 
-                  for(int i = 0; i < 4; ++i) {
-                    for(int j = 0; j < 3; ++j) {
-                      for(int k=0; k<2; ++k) {
+                  for(int i = 0; i &amp; 4; ++i) {
+                    for(int j = 0; j &amp; 3; ++j) {
+                      for(int k=0; k &amp; 2; ++k) {
                       draw(box((i,j,k),(i+1,j+1,k+1)));
                       }
                     }
                   }
 
-                  for(int i = 0; i < 2; ++i) {
-                    for(int j = 0; j < 3; ++j) {
+                  for(int i = 0; i &amp; 2; ++i) {
+                    for(int j = 0; j &amp; 3; ++j) {
                       draw(shift((0,j,i))*unitcube,blue+opacity(0.5));
                     }
                   }
 
-                  for(int i = 0; i < 2; ++i) {
-                    for(int j = 0; j < 3; ++j) {
+                  for(int i = 0; i &amp; 2; ++i) {
+                    for(int j = 0; j &amp; 3; ++j) {
                       draw(shift((1,j,i))*unitcube,yellow+opacity(0.5));
                     }
                   }
 
-                  for(int i = 0; i < 2; ++i) {
-                    for(int j = 0; j < 3; ++j) {
+                  for(int i = 0; i &amp; 2; ++i) {
+                    for(int j = 0; j &amp; 3; ++j) {
                       draw(shift((2,j,i))*unitcube,red+opacity(0.5));
                     }
                   }
 
-                  for(int i = 0; i < 2; ++i) {
-                    for(int j = 0; j < 3; ++j) {
+                  for(int i = 0; i &amp; 2; ++i) {
+                    for(int j = 0; j &amp; 3; ++j) {
                       draw(shift((3,j,i))*unitcube,green+opacity(0.5));
                     }
                   }
                 </asymptote>
               </image>
             </sidebyside>
-          </figure>
+          </figure> -->
         </subsection>
       </section>
 
       <section xml:id="section-commutative-associative">
         <title>Combining the commutative and associative properties</title>
+
+        <p>
+          Lots of cool things will eventually go here.
+        </p>
       </section>
 
       <section xml:id="sec-distributive-property">
