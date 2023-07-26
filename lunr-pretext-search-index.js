@@ -61,7 +61,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Associativity",
-  "body": " Associativity   The associative properties are about grouping . Both addition and multiplication are fundamentally about combining pairs of numbers, but we often need to add, or multiply, three or more numbers. The associative properties let us make sense of how this works.    Associativity of Addition  Did you know that multiplication is also associative? This is important if we want to compute volume: the volume of a cube is , whether we compute this as or .    "
+  "body": " Associativity   The associative properties are about grouping . Both addition and multiplication are fundamentally about combining pairs of numbers, but we often need to add, or multiply, three or more numbers. The associative properties let us make sense of how this works.    Associativity of Addition  Did you know that multiplication is also associative? This is important if we want to compute volume: the volume of a cube is , whether we compute this as or .   Illustrating the associative property of multiplication    A 2 by 3 by 4 box, shadeded to show volume computed as 2 groups of size 3 by 4     A 2 by 3 by 4 cube, shaded to show volume computed as 4 groups of size 2 by 3       "
+},
+{
+  "id": "fig-mult-associative",
+  "level": "2",
+  "url": "sec-associativity.html#fig-mult-associative",
+  "type": "Figure",
+  "number": "1.2.1",
+  "title": "",
+  "body": " Illustrating the associative property of multiplication    A 2 by 3 by 4 box, shadeded to show volume computed as 2 groups of size 3 by 4     A 2 by 3 by 4 cube, shaded to show volume computed as 4 groups of size 2 by 3     "
 },
 {
   "id": "section-commutative-associative",
