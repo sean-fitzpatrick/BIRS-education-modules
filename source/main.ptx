@@ -235,8 +235,15 @@
         <subsection xml:id="subsec-communtativity-multiplication">
           <title>Communtativity of Multiplication</title>
           <p>
-            A corresponding presentation for multiplication will eventually go here.
+            Hi friends! Did you know that multiplication is also commutative?
+            Here's a picture
           </p>
+
+          <figure xml:id="fig-comm-mult">
+            <image source="comm-mult" width="50%">
+              <description>(for accessibility)</description>
+            </image>
+          </figure>
         </subsection>
       </section>
 
