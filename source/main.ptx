@@ -240,6 +240,7 @@
           </p>
 
           <figure xml:id="fig-comm-mult">
+            <caption>Illustrating the commutativity of multiplication in terms of area</caption>
             <image source="images/TwoBYThree" width="50%">
               <description>Two rectangles with the same area. One is 2 by 3 and the other is 3 by 2</description>
             </image>
