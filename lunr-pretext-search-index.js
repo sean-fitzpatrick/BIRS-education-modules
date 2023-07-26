@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Commutativity",
-  "body": " Commutativity   The commuative properties are about order . When we add or multiply two numbers, which one comes first? Does it matter? The commutative properties state that no, it doesn't matter: is the same as , and is the same as .  Students (and their teachers) intuitively understand this principle from an early age, but often do not explicitly understand the role of commutativity in more complicated procedures. These modules are designed to help teachers understand the concept and importance of the commutative propertes in elementary arithmetic.     Commutativity of Addition  The commutative property of addition states that the order in which we add two numbers doesn't matter. For example, and . The following interactive applet allows you to explore this in more detail. Use the two sliders to select the two numbers you want to add, and then click the RESTART button to run an animation.   Illustrating the commutative property      Use the commuative property of addition to complete the following equalities.                    Use the commutative property to complete the following table.    + 1 2 3    1 2    2 3 4    3 4 5 6       Communtativity of Multiplication  A corresponding presentation for multiplication will eventually go here.   "
+  "body": " Commutativity   The commuative properties are about order . When we add or multiply two numbers, which one comes first? Does it matter? The commutative properties state that no, it doesn't matter: is the same as , and is the same as .  Students (and their teachers) intuitively understand this principle from an early age, but often do not explicitly understand the role of commutativity in more complicated procedures. These modules are designed to help teachers understand the concept and importance of the commutative propertes in elementary arithmetic.     Commutativity of Addition  The commutative property of addition states that the order in which we add two numbers doesn't matter. For example, and . The following interactive applet allows you to explore this in more detail. Use the two sliders to select the two numbers you want to add, and then click the RESTART button to run an animation.   Illustrating the commutative property      Use the commuative property of addition to complete the following equalities.                     Use the commutative property to complete the following table.                1  2  3  4  5  6  7  8  9    1  2            2  3  4           3  4  5  6          4  5  6  7  8         5  6  7  8  9  10        6  7  8  9  10  11  12       7  8  9  10  11  12  13  14      8  9  10  11  12  13  14  15  16     9  10  11  12  13  14  15  16  17  18                                                                                                                                                                                               Communtativity of Multiplication  A corresponding presentation for multiplication will eventually go here.   "
 },
 {
   "id": "geogebra-add-commutative",
@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.1.3",
   "title": "",
-  "body": " Use the commutative property to complete the following table.    + 1 2 3    1 2    2 3 4    3 4 5 6    "
+  "body": "  Use the commutative property to complete the following table.                1  2  3  4  5  6  7  8  9    1  2            2  3  4           3  4  5  6          4  5  6  7  8         5  6  7  8  9  10        6  7  8  9  10  11  12       7  8  9  10  11  12  13  14      8  9  10  11  12  13  14  15  16     9  10  11  12  13  14  15  16  17  18                                                                                                                                                                                            "
 },
 {
   "id": "sec-associativity",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Associativity",
-  "body": " Associativity   The associative properties are about grouping . Both addition and multiplication are fundamentally about combining pairs of numbers, but we often need to add, or multiply, three or more numbers. The associative properties let us make sense of how this works.    Associativity of Addition      associativity-multiplication  Hey hey hey...   "
+  "body": " Associativity   The associative properties are about grouping . Both addition and multiplication are fundamentally about combining pairs of numbers, but we often need to add, or multiply, three or more numbers. The associative properties let us make sense of how this works.    Associativity of Addition  Did you know that multiplication is also associative? This is important if we want to compute volume: the volume of a cube is , whether we compute this as or .    "
 },
 {
   "id": "section-commutative-associative",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Combining the commutative and associative properties",
-  "body": " Combining the commutative and associative properties  "
+  "body": " Combining the commutative and associative properties  Lots of cool things will eventually go here.  "
 },
 {
   "id": "sec-distributive-property",

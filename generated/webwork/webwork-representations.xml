@@ -21,7 +21,7 @@
     <pg><![CDATA[
 #############################################
 ###       Generated from PreTeXt source      
-###       on 2023-07-25T21:08:04Z       
+###       on 2023-07-26T16:10:03Z       
 ###   A recent stable commit (2022-07-01):   
 ### 6c761d3dba23af92cba35001c852aac04ae99a5f 
 ###                                          
@@ -75,6 +75,508 @@ Use the commuative property of addition to complete the following equalities.
 [`9+7 = `][_]{'7'}{3}[`+9`]
 
 [`10+`][_]{'5'}{3}[` = 5+10`]
+
+END_PGML
+
+############################################################
+# End Problem
+############################################################
+
+ENDDOCUMENT();
+]]></pg>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-2" ww-id="webwork-2">
+    <static seed="2">
+      <statement><p>Use the commutative property to complete the following table.</p>
+<!-- PTX:WARNING: PGML wanted to center align here. -->
+<tabular>
+<col halign="right" right="minor"/>
+<col halign="center"/>
+<col halign="center"/>
+<col halign="center"/>
+<col halign="center"/>
+<col halign="center"/>
+<col halign="center"/>
+<col halign="center"/>
+<col halign="center"/>
+<col halign="center"/>
+<row bottom="minor">
+<cell bottom="minor"><m>+</m></cell>
+<cell>1</cell>
+<cell>2</cell>
+<cell>3</cell>
+<cell>4</cell>
+<cell>5</cell>
+<cell>6</cell>
+<cell>7</cell>
+<cell>8</cell>
+<cell>9</cell>
+</row>
+<row>
+<cell>1</cell>
+<cell>2</cell>
+<cell><fillin name="AnSwEr0001" characters="2"/></cell>
+<cell><fillin name="AnSwEr0002" characters="2"/></cell>
+<cell><fillin name="AnSwEr0003" characters="2"/></cell>
+<cell><fillin name="AnSwEr0004" characters="2"/></cell>
+<cell><fillin name="AnSwEr0005" characters="2"/></cell>
+<cell><fillin name="AnSwEr0006" characters="2"/></cell>
+<cell><fillin name="AnSwEr0007" characters="2"/></cell>
+<cell><fillin name="AnSwEr0008" characters="2"/></cell>
+</row>
+<row>
+<cell>2</cell>
+<cell>3</cell>
+<cell>4</cell>
+<cell><fillin name="AnSwEr0009" characters="2"/></cell>
+<cell><fillin name="AnSwEr0010" characters="2"/></cell>
+<cell><fillin name="AnSwEr0011" characters="2"/></cell>
+<cell><fillin name="AnSwEr0012" characters="2"/></cell>
+<cell><fillin name="AnSwEr0013" characters="2"/></cell>
+<cell><fillin name="AnSwEr0014" characters="2"/></cell>
+<cell><fillin name="AnSwEr0015" characters="2"/></cell>
+</row>
+<row>
+<cell>3</cell>
+<cell>4</cell>
+<cell>5</cell>
+<cell>6</cell>
+<cell><fillin name="AnSwEr0016" characters="2"/></cell>
+<cell><fillin name="AnSwEr0017" characters="2"/></cell>
+<cell><fillin name="AnSwEr0018" characters="2"/></cell>
+<cell><fillin name="AnSwEr0019" characters="2"/></cell>
+<cell><fillin name="AnSwEr0020" characters="2"/></cell>
+<cell><fillin name="AnSwEr0021" characters="2"/></cell>
+</row>
+<row>
+<cell>4</cell>
+<cell>5</cell>
+<cell>6</cell>
+<cell>7</cell>
+<cell>8</cell>
+<cell><fillin name="AnSwEr0022" characters="2"/></cell>
+<cell><fillin name="AnSwEr0023" characters="2"/></cell>
+<cell><fillin name="AnSwEr0024" characters="2"/></cell>
+<cell><fillin name="AnSwEr0025" characters="2"/></cell>
+<cell><fillin name="AnSwEr0026" characters="2"/></cell>
+</row>
+<row>
+<cell>5</cell>
+<cell>6</cell>
+<cell>7</cell>
+<cell>8</cell>
+<cell>9</cell>
+<cell>10</cell>
+<cell><fillin name="AnSwEr0027" characters="2"/></cell>
+<cell><fillin name="AnSwEr0028" characters="2"/></cell>
+<cell><fillin name="AnSwEr0029" characters="2"/></cell>
+<cell><fillin name="AnSwEr0030" characters="2"/></cell>
+</row>
+<row>
+<cell>6</cell>
+<cell>7</cell>
+<cell>8</cell>
+<cell>9</cell>
+<cell>10</cell>
+<cell>11</cell>
+<cell>12</cell>
+<cell><fillin name="AnSwEr0031" characters="2"/></cell>
+<cell><fillin name="AnSwEr0032" characters="2"/></cell>
+<cell><fillin name="AnSwEr0033" characters="2"/></cell>
+</row>
+<row>
+<cell>7</cell>
+<cell>8</cell>
+<cell>9</cell>
+<cell>10</cell>
+<cell>11</cell>
+<cell>12</cell>
+<cell>13</cell>
+<cell>14</cell>
+<cell><fillin name="AnSwEr0034" characters="2"/></cell>
+<cell><fillin name="AnSwEr0035" characters="2"/></cell>
+</row>
+<row>
+<cell>8</cell>
+<cell>9</cell>
+<cell>10</cell>
+<cell>11</cell>
+<cell>12</cell>
+<cell>13</cell>
+<cell>14</cell>
+<cell>15</cell>
+<cell>16</cell>
+<cell><fillin name="AnSwEr0036" characters="2"/></cell>
+</row>
+<row>
+<cell>9</cell>
+<cell>10</cell>
+<cell>11</cell>
+<cell>12</cell>
+<cell>13</cell>
+<cell>14</cell>
+<cell>15</cell>
+<cell>16</cell>
+<cell>17</cell>
+<cell>18</cell>
+</row>
+</tabular>
+</statement>
+      <answer>
+        <p>
+          <m>3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>10</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>10</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>10</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>12</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>10</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>12</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>13</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>12</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>13</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>14</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>13</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>14</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>15</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>15</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>16</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>17</m>
+        </p>
+      </answer>
+    </static>
+    <server-data problemSource="RE9DVU1FTlQoKTsKbG9hZE1hY3JvcygiUEdzdGFuZGFyZC5wbCIsIlBHTUwucGwiLCJuaWNlVGFibGVzLnBsIiwiQW5zd2VyRm9ybWF0SGVscC5wbCIsIlBHY291cnNlLnBsIiwpO1RFWFQoYmVnaW5wcm9ibGVtKCkpOwpDb250ZXh0KCdOdW1lcmljJyk7QGEgPSAoMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNyk7CgpCRUdJTl9QR01MClVzZSB0aGUgY29tbXV0YXRpdmUgcHJvcGVydHkgdG8gY29tcGxldGUgdGhlIGZvbGxvd2luZyB0YWJsZS4KCj4+IFtARGF0YVRhYmxlKFtbW1BHTUwoJ1tgK2BdJyksYm90dG9tLCcxJyxtaWRydWxlLCcxJyxdLFBHTUwoJzEnKSxQR01MKCcyJyksUEdNTCgnMycpLFBHTUwoJzQnKSxQR01MKCc1JyksUEdNTCgnNicpLFBHTUwoJzcnKSxQR01MKCc4JyksUEdNTCgnOScpLF0sW1BHTUwoJzEnKSxQR01MKCcyJyksUEdNTCgnW19deyRhWzBdfXsyfScpLFBHTUwoJ1tfXXskYVsxXX17Mn0nKSxQR01MKCdbX117JGFbMl19ezJ9JyksUEdNTCgnW19deyRhWzNdfXsyfScpLFBHTUwoJ1tfXXskYVs0XX17Mn0nKSxQR01MKCdbX117JGFbNV19ezJ9JyksUEdNTCgnW19deyRhWzZdfXsyfScpLFBHTUwoJ1tfXXskYVs3XX17Mn0nKSxdLFtQR01MKCcyJyksUEdNTCgnMycpLFBHTUwoJzQnKSxQR01MKCdbX117JGFbMl19ezJ9JyksUEdNTCgnW19deyRhWzNdfXsyfScpLFBHTUwoJ1tfXXskYVs0XX17Mn0nKSxQR01MKCdbX117JGFbNV19ezJ9JyksUEdNTCgnW19deyRhWzZdfXsyfScpLFBHTUwoJ1tfXXskYVs3XX17Mn0nKSxQR01MKCdbX117JGFbOF19ezJ9JyksXSxbUEdNTCgnMycpLFBHTUwoJzQnKSxQR01MKCc1JyksUEdNTCgnNicpLFBHTUwoJ1tfXXskYVs0XX17Mn0nKSxQR01MKCdbX117JGFbNV19ezJ9JyksUEdNTCgnW19deyRhWzZdfXsyfScpLFBHTUwoJ1tfXXskYVs3XX17Mn0nKSxQR01MKCdbX117JGFbOF19ezJ9JyksUEdNTCgnW19deyRhWzldfXsyfScpLF0sW1BHTUwoJzQnKSxQR01MKCc1JyksUEdNTCgnNicpLFBHTUwoJzcnKSxQR01MKCc4JyksUEdNTCgnW19deyRhWzZdfXsyfScpLFBHTUwoJ1tfXXskYVs3XX17Mn0nKSxQR01MKCdbX117JGFbOF19ezJ9JyksUEdNTCgnW19deyRhWzldfXsyfScpLFBHTUwoJ1tfXXskYVsxMF19ezJ9JyksXSxbUEdNTCgnNScpLFBHTUwoJzYnKSxQR01MKCc3JyksUEdNTCgnOCcpLFBHTUwoJzknKSxQR01MKCcxMCcpLFBHTUwoJ1tfXXskYVs4XX17Mn0nKSxQR01MKCdbX117JGFbOV19ezJ9JyksUEdNTCgnW19deyRhWzEwXX17Mn0nKSxQR01MKCdbX117JGFbMTFdfXsyfScpLF0sW1BHTUwoJzYnKSxQR01MKCc3JyksUEdNTCgnOCcpLFBHTUwoJzknKSxQR01MKCcxMCcpLFBHTUwoJzExJyksUEdNTCgnMTInKSxQR01MKCdbX117JGFbMTBdfXsyfScpLFBHTUwoJ1tfXXskYVsxMV19ezJ9JyksUEdNTCgnW19deyRhWzEyXX17Mn0nKSxdLFtQR01MKCc3JyksUEdNTCgnOCcpLFBHTUwoJzknKSxQR01MKCcxMCcpLFBHTUwoJzExJyksUEdNTCgnMTInKSxQR01MKCcxMycpLFBHTUwoJzE0JyksUEdNTCgnW19deyRhWzEyXX17Mn0nKSxQR01MKCdbX117JGFbMTNdfXsyfScpLF0sW1BHTUwoJzgnKSxQR01MKCc5JyksUEdNTCgnMTAnKSxQR01MKCcxMScpLFBHTUwoJzEyJyksUEdNTCgnMTMnKSxQR01MKCcxNCcpLFBHTUwoJzE1JyksUEdNTCgnMTYnKSxQR01MKCdbX117JGFbMTRdfXsyfScpLF0sW1BHTUwoJzknKSxQR01MKCcxMCcpLFBHTUwoJzExJyksUEdNTCgnMTInKSxQR01MKCcxMycpLFBHTUwoJzE0JyksUEdNTCgnMTUnKSxQR01MKCcxNicpLFBHTUwoJzE3JyksUEdNTCgnMTgnKSxdLF0sYWxpZ24sJ3J8Y2NjY2NjY2NjJyx2YWxpZ24sJ21pZGRsZScsKTtAXSogPDwKCgpFTkRfUEdNTAoKRU5ERE9DVU1FTlQoKTs=" domain="https://webwork-ptx.aimath.org" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg><![CDATA[
+#############################################
+###       Generated from PreTeXt source      
+###       on 2023-07-26T16:10:03Z       
+###   A recent stable commit (2022-07-01):   
+### 6c761d3dba23af92cba35001c852aac04ae99a5f 
+###                                          
+###         https://pretextbook.org          
+###                                          
+#############################################
+## DBsubject()
+## DBchapter()
+## DBsection()
+## Level()
+## KEYWORDS()
+## TitleText1()
+## EditionText1()
+## AuthorText1()
+## Section1(not reported)
+## Problem1(1.1.3)
+## Author()
+## Institution()
+## Language(en-US)
+
+DOCUMENT();
+
+############################################################
+# Load Macros
+############################################################
+loadMacros(
+  "PGstandard.pl",
+  "PGML.pl",
+  "niceTables.pl",
+  "AnswerFormatHelp.pl",
+  "PGcourse.pl",
+);
+COMMENT('Authored in PreTeXt');
+
+############################################################
+# Header
+############################################################
+TEXT(beginproblem());
+
+############################################################
+# PG Setup Code
+############################################################
+Context('Numeric');
+@a = (3,4,5,6,7,8,9,10,11,12,13,14,15,16,17);
+
+############################################################
+# Body
+############################################################
+
+BEGIN_PGML
+Use the commutative property to complete the following table.
+
+>> [@DataTable(
+  [
+    [[PGML('[`+`]'),
+      bottom => '1',
+      midrule => '1',],
+     PGML('1'),
+     PGML('2'),
+     PGML('3'),
+     PGML('4'),
+     PGML('5'),
+     PGML('6'),
+     PGML('7'),
+     PGML('8'),
+     PGML('9'),
+    ],
+    [PGML('1'),
+     PGML('2'),
+     PGML('[_]{$a[0]}{2}'),
+     PGML('[_]{$a[1]}{2}'),
+     PGML('[_]{$a[2]}{2}'),
+     PGML('[_]{$a[3]}{2}'),
+     PGML('[_]{$a[4]}{2}'),
+     PGML('[_]{$a[5]}{2}'),
+     PGML('[_]{$a[6]}{2}'),
+     PGML('[_]{$a[7]}{2}'),
+    ],
+    [PGML('2'),
+     PGML('3'),
+     PGML('4'),
+     PGML('[_]{$a[2]}{2}'),
+     PGML('[_]{$a[3]}{2}'),
+     PGML('[_]{$a[4]}{2}'),
+     PGML('[_]{$a[5]}{2}'),
+     PGML('[_]{$a[6]}{2}'),
+     PGML('[_]{$a[7]}{2}'),
+     PGML('[_]{$a[8]}{2}'),
+    ],
+    [PGML('3'),
+     PGML('4'),
+     PGML('5'),
+     PGML('6'),
+     PGML('[_]{$a[4]}{2}'),
+     PGML('[_]{$a[5]}{2}'),
+     PGML('[_]{$a[6]}{2}'),
+     PGML('[_]{$a[7]}{2}'),
+     PGML('[_]{$a[8]}{2}'),
+     PGML('[_]{$a[9]}{2}'),
+    ],
+    [PGML('4'),
+     PGML('5'),
+     PGML('6'),
+     PGML('7'),
+     PGML('8'),
+     PGML('[_]{$a[6]}{2}'),
+     PGML('[_]{$a[7]}{2}'),
+     PGML('[_]{$a[8]}{2}'),
+     PGML('[_]{$a[9]}{2}'),
+     PGML('[_]{$a[10]}{2}'),
+    ],
+    [PGML('5'),
+     PGML('6'),
+     PGML('7'),
+     PGML('8'),
+     PGML('9'),
+     PGML('10'),
+     PGML('[_]{$a[8]}{2}'),
+     PGML('[_]{$a[9]}{2}'),
+     PGML('[_]{$a[10]}{2}'),
+     PGML('[_]{$a[11]}{2}'),
+    ],
+    [PGML('6'),
+     PGML('7'),
+     PGML('8'),
+     PGML('9'),
+     PGML('10'),
+     PGML('11'),
+     PGML('12'),
+     PGML('[_]{$a[10]}{2}'),
+     PGML('[_]{$a[11]}{2}'),
+     PGML('[_]{$a[12]}{2}'),
+    ],
+    [PGML('7'),
+     PGML('8'),
+     PGML('9'),
+     PGML('10'),
+     PGML('11'),
+     PGML('12'),
+     PGML('13'),
+     PGML('14'),
+     PGML('[_]{$a[12]}{2}'),
+     PGML('[_]{$a[13]}{2}'),
+    ],
+    [PGML('8'),
+     PGML('9'),
+     PGML('10'),
+     PGML('11'),
+     PGML('12'),
+     PGML('13'),
+     PGML('14'),
+     PGML('15'),
+     PGML('16'),
+     PGML('[_]{$a[14]}{2}'),
+    ],
+    [PGML('9'),
+     PGML('10'),
+     PGML('11'),
+     PGML('12'),
+     PGML('13'),
+     PGML('14'),
+     PGML('15'),
+     PGML('16'),
+     PGML('17'),
+     PGML('18'),
+    ],
+  ],
+      align => 'r|ccccccccc',
+      valign => 'middle',);@]* <<
 
 END_PGML
 
