@@ -240,8 +240,8 @@
           </p>
 
           <figure xml:id="fig-comm-mult">
-            <image source="TwoBYThree" width="50%">
-              <description>(for accessibility)</description>
+            <image source="images/TwoBYThree" width="50%">
+              <description>Two rectangles with the same area. One is 2 by 3 and the other is 3 by 2</description>
             </image>
           </figure>
         </subsection>
