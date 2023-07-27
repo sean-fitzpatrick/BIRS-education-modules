@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<section xml:id="sec-associativity">
+    <title>Associativity</title>
+    <introduction>
+      <p>
+        The associative properties are about <em>grouping</em>.
+        Both addition and multiplication are fundamentally about combining <em>pairs</em> of numbers,
+        but we often need to add, or multiply, three or more numbers.
+        The associative properties let us make sense of how this works.
+      </p>
+    </introduction>
+    <subsection xml:id="subsec-associativity-addition">
+      <title>Associativity of Addition</title>
+      
+      <p>
+        Did you know that multiplication is also associative?
+        This is important if we want to compute volume:
+        the volume of a <m>2\times 3\times 4</m> cube is <m>24</m>,
+        whether we compute this as <m>2\times(3\times 4)</m> or <m>(2\times 3)\times 4</m>.
+      </p>
+
+      <figure xml:id="fig-mult-associative">
+        <caption>Illustrating the associative property of multiplication</caption>
+        <sidebyside widths="47% 47%">
+          <image xml:id="img-mult-assoc1">
+            <description>A 2 by 3 by 4 box, shadeded to show volume computed as 2 groups of size 3 by 4</description>
+            <asymptote>
+              import three;
+              import palette;
+              import graph3;
+
+              size(300,200);
+
+              currentprojection=perspective(-30,-30,30,up=Z);
+
+
+              for(int i = 0; i &lt; 3; ++i) {
+                for(int j = 0; j &lt; 4; ++j) {
+                  for(int k=0; k &lt; 2; ++k) {
+                  draw(box((i,j,k),(i+1,j+1,k+1)));
+                  }
+                }
+              }
+
+              for(int i = 0; i &lt; 3; ++i) {
+                for(int j = 0; j &lt; 4; ++j) {
+                  draw(shift((i,j,0))*unitcube,blue+opacity(0.5));
+                }
+              }
+
+              for(int i = 0; i &lt; 3; ++i) {
+                for(int j = 0; j &lt; 4; ++j) {
+                  draw(shift((i,j,1))*unitcube,red+opacity(0.5));
+                }
+              }
+            </asymptote>
+          </image>
+
+          <image xml:id="img-mult-assoc2">
+            <description>A 2 by 3 by 4 cube, shaded to show volume computed as 4 groups of size 2 by 3</description>
+            <asymptote>
+              import three;
+              import palette;
+              import graph3;
+
+              size(300,200);
+
+              currentprojection=perspective(-30,-30,30,up=Z);
+
+
+              for(int i = 0; i &lt; 4; ++i) {
+                for(int j = 0; j &lt; 3; ++j) {
+                  for(int k=0; k &lt; 2; ++k) {
+                  draw(box((i,j,k),(i+1,j+1,k+1)));
+                  }
+                }
+              }
+
+              for(int i = 0; i &lt; 2; ++i) {
+                for(int j = 0; j &lt; 3; ++j) {
+                  draw(shift((0,j,i))*unitcube,blue+opacity(0.5));
+                }
+              }
+
+              for(int i = 0; i &lt; 2; ++i) {
+                for(int j = 0; j &lt; 3; ++j) {
+                  draw(shift((1,j,i))*unitcube,yellow+opacity(0.5));
+                }
+              }
+
+              for(int i = 0; i &lt; 2; ++i) {
+                for(int j = 0; j &lt; 3; ++j) {
+                  draw(shift((2,j,i))*unitcube,red+opacity(0.5));
+                }
+              }
+
+              for(int i = 0; i &lt; 2; ++i) {
+                for(int j = 0; j &lt; 3; ++j) {
+                  draw(shift((3,j,i))*unitcube,green+opacity(0.5));
+                }
+              }
+            </asymptote>
+          </image>
+        </sidebyside>
+      </figure>
+    </subsection>
+  </section>
